@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div className="h-32 md:h-52 bg-black text-white flex flex-col justify-between items-center md:flex-row md:justify-around">
       <div className="flex justify-around items-center gap-5 py-2">
-        <Link href="https://facebook.com">
+        <Link href="https://www.facebook.com/profile.php?id=61552027260066">
           <Image
             src="/images/fb1.jfif"
             width={36}

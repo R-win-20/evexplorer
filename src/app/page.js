@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="flex flex-col gap-2">
-      <div className="flex flex-col gap-1 items-center">
+      <div className="flex flex-col gap-1 items-center bg-[url('/images/banner.GIF')]">
         <h1 className="text-sm text-blue-300">Excellent</h1>
         <div className="flex items-center justify-center text-xl">
           <span className="fa fa-star text-orange-400"></span>
